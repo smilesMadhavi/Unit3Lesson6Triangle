@@ -43,8 +43,9 @@ public class Triangle
 
 	public double calcArea( )
 	{
-		double s;
-
+		double s = 0.0;
+		//write code to calculate Area
+		return s;
 
 	}
 
